@@ -1,5 +1,9 @@
 # DowNote
 My pet note-taking app.
+
+### Launch instructions
+Just clone, run `docker-compose up` and open [localhost:3000](http://localhost:3000/)
+
 ### Change log
 + 23.12.2019 - Repo created
 + all the time in between - doing some stuff rather chaotically
