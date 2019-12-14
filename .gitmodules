@@ -1,0 +1,6 @@
+[submodule "downote-api"]
+	path = downote-api
+	url = https://github.com/holdMyTea/downote-api.git
+[submodule "downote-front"]
+	path = downote-front
+	url = https://github.com/holdMyTea/downote-front.git
