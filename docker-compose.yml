@@ -32,7 +32,6 @@ services:
       API_PORT: 8082
       DB_HOST: db
     volumes:
-      - ./:/home/dowmote/app
       - api_node_modules:/home/downote/app/node_modules/
   
   front:
@@ -45,5 +44,4 @@ services:
     ports:
       - "127.0.0.1:3000:3000"
     volumes:
-      - ./:/home/dowmote/app
       - front_node_modules:/home/downote/app/node_modules/
