@@ -43,5 +43,8 @@ services:
       - api
     ports:
       - "127.0.0.1:3000:3000"
+    environment:
+      API_HOST: api
+      API_PORT: 8082
     volumes:
       - front_node_modules:/home/downote/app/node_modules/
