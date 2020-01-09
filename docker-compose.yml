@@ -44,7 +44,7 @@ services:
     ports:
       - "127.0.0.1:3000:3000"
     environment:
-      API_HOST: api
+      API_HOST: localhost # can be omitted, then front will parse `api` from its hosts list
       API_PORT: 8082
     volumes:
       - front_node_modules:/home/downote/app/node_modules/

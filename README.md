@@ -6,7 +6,7 @@ Just clone, run `docker-compose up` and open [localhost:3000](http://localhost:3
 
 ### Current submodule versions
 + API - [d54473c2e39e46596ca2c297500b2762567a4237](https://github.com/holdMyTea/downote-api/tree/d54473c2e39e46596ca2c297500b2762567a4237)
-+ Front - [761c2b3ef2f0c919ff058e17f398bf46491595f7](https://github.com/holdMyTea/downote-front/tree/761c2b3ef2f0c919ff058e17f398bf46491595f7)
++ Front - [02030d2a95147bcd7ca8bc0eb9e66bbfddcf9e4d](https://github.com/holdMyTea/downote-front/tree/02030d2a95147bcd7ca8bc0eb9e66bbfddcf9e4d)
 
 ### Change log
 + 23.12.2019 - Repo created
